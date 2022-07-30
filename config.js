@@ -5,12 +5,12 @@ global.ownerNumber = "62895415497664@s.whatsapp.net"
 global.ownerName = "Surya"
 global.botName = "Mechabot Multi Device"
 global.fake = "© 2022 Copyright by Surya"
-global.sessionName = "Surya"
+global.sessionName = "session"
 global.thumb = fs.readFileSync('mecha.jpg')
 global.mess = {
 success: 'Sukses',
 wait: '*_Loading..._*',
-limit: 'Maaf limit harian kamu sudah habis, beli premium untuk mendapatkan limit Unlimited, atau kamu dapat menunggu reset limit pada pukul 05.05 setiap harinya',
+limit: 'Maaf limit harian kamu sudah habis, beli premium untuk mendapatkan limit Unlimited, atau kamu dapat menunggu reset limit pada pukul 00.00 setiap harinya',
 error: {
 Iv: 'Link yang kamu berikan tidak valid',
 api: 'Maaf terjadi kesalahan'
