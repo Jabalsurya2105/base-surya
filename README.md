@@ -1,11 +1,11 @@
 <p align="center">
 <a href="https://ibb.co/kJzZTmP"><img src="https://telegra.ph/file/1eb044a8f45b1f01e2cda.jpg"</a>
-<a href="https://github.com/Jabalsurya2105/Mechabot-DB"><img src="https://img.shields.io/badge/Mecha WhatsApp Bot-silver?style=for-the-badge"></a>
+<a href="https://github.com/Jabalsurya2105/mybase"><img src="https://img.shields.io/badge/Mecha WhatsApp Bot-silver?style=for-the-badge"></a>
 <p align="center">
-<a href="https://github.com/Jabalsurya2105/Mechabot-DB"><img src="https://img.shields.io/github/watchers/Jabalsurya2105/Mechabot-DB.svg"</a>
-<a href="https://github.com/Jabalsurya2105/Mechabot-DB"><img src="https://img.shields.io/github/stars/Jabalsurya2105/Mechabot-DB.svg"</a>
-<a href="https://github.com/Jabalsurya2105/Mechabot-DB"><img src="https://img.shields.io/github/forks/Jabalsurya2105/Mechabot-DB.svg"</a>
-<a href="https://github.com/Jabalsurya2105/Mechabot-DB"><img src="https://img.shields.io/github/repo-size/Jabalsurya2105/Mechabot-DB.svg"></a>
+<a href="https://github.com/Jabalsurya2105/mybase"><img src="https://img.shields.io/github/watchers/Jabalsurya2105/mybase.svg"</a>
+<a href="https://github.com/Jabalsurya2105/mybase"><img src="https://img.shields.io/github/stars/Jabalsurya2105/mybase.svg"</a>
+<a href="https://github.com/Jabalsurya2105/mybase"><img src="https://img.shields.io/github/forks/Jabalsurya2105/mybase.svg"</a>
+<a href="https://github.com/Jabalsurya2105/mybase"><img src="https://img.shields.io/github/repo-size/Jabalsurya2105/mybase.svg"></a>
 
 ***
 
